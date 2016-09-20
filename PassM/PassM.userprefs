@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{1B015D18-1DFD-48F1-89D4-216DCC153AF0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PassM/ListCategory.xaml.cs">
+    <Files>
+      <File FileName="PassM/PassMPage.xaml.cs" Line="14" Column="4" />
+      <File FileName="iOS/obj/iPhoneSimulator/Debug/PassM.iOS..Users.senthil.Projects.PassM.PassM.PassMPage.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="PassM/App.xaml.cs" Line="21" Column="4" />
+      <File FileName="PassM/ListCategory.xaml.cs" Line="16" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PassM" expanded="True">
+            <Node name="PassM" expanded="True">
+              <Node name="ListCategory.xaml" expanded="True">
+                <Node name="ListCategory.xaml.cs" selected="True" />
+              </Node>
+              <Node name="PassMPage.xaml" expanded="True" />
+            </Node>
+            <Node name="PassM.Droid" expanded="True" />
+            <Node name="PassM.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PassM.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EAE49E25-C1C0-45C9-9224-31936E1AFB86" />
+</Properties>
