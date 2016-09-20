@@ -9,7 +9,7 @@ namespace PassM
 			InitializeComponent();
 			var fPage = new PassMPage();
 			MainPage = new NavigationPage(new PassMPage());
-			NavigationPage.SetBackButtonTitle(fPage, "Test");
+			NavigationPage.SetBackButtonTitle(fPage, "Login");
 		}
 
 		protected override void OnStart()

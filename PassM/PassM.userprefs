@@ -1,19 +1,19 @@
-﻿<Properties StartupConfiguration="{1B015D18-1DFD-48F1-89D4-216DCC153AF0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PassM/ListCategory.xaml.cs">
+﻿<Properties StartupConfiguration="{1B015D18-1DFD-48F1-89D4-216DCC153AF0}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PassM Status">
     <Files>
       <File FileName="PassM/PassMPage.xaml.cs" Line="14" Column="4" />
       <File FileName="iOS/obj/iPhoneSimulator/Debug/PassM.iOS..Users.senthil.Projects.PassM.PassM.PassMPage.xaml.g.cs" Line="1" Column="1" />
-      <File FileName="PassM/App.xaml.cs" Line="21" Column="4" />
+      <File FileName="PassM/App.xaml.cs" Line="32" Column="1" />
       <File FileName="PassM/ListCategory.xaml.cs" Line="16" Column="1" />
+      <File FileName="PassM Status" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="PassM" expanded="True">
+          <Node name="PassM" expanded="True" selected="True">
             <Node name="PassM" expanded="True">
-              <Node name="ListCategory.xaml" expanded="True">
-                <Node name="ListCategory.xaml.cs" selected="True" />
-              </Node>
+              <Node name="App.xaml" expanded="True" />
+              <Node name="ListCategory.xaml" expanded="True" />
               <Node name="PassMPage.xaml" expanded="True" />
             </Node>
             <Node name="PassM.Droid" expanded="True" />
